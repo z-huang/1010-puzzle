@@ -1,4 +1,6 @@
 # 1010 Puzzle
-A puzzle game just like 1010
+A puzzle game for the web version
 # Usage
-Open ```index.html``` , and that's it.
+Open ```index.html``` , and you can play it.
+# Screenshot
+![Image](screenshot.gif)
